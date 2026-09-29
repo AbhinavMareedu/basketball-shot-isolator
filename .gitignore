@@ -5,6 +5,7 @@
 runs/
 weights/
 output/
-data/
+data/*
 __pycache__/
 .DS_Store
+!data/.gitkeep
