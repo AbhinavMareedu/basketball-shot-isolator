@@ -1,0 +1,10 @@
+.venv/
+*.mp4
+*.mov
+*.pt
+runs/
+weights/
+output/
+data/
+__pycache__/
+.DS_Store
